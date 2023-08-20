@@ -22,4 +22,4 @@
 - Toast or Notification: [Noty](https://ned.im/noty)
 
 ## .contact
-- Email: [rahulantony.lf@gmail.com](mailto: rahulantony.lf@gmail.com)
+- Email: [viswakumaar21@gmailcom](mailto: viswakumaar21@gmail.com)
